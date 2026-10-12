@@ -3,9 +3,11 @@ A universal solder feeder
 
 A compact, low-cost DIY solder wire feeder powered by an N20 DC gearmotor.
 
+Assembly
 ![assembly](3d_models/assembly.png)
 
 
+Wiring diagram
 ![wiring diagram](schematic/wiring_diagram.png)
 
 ## Features
