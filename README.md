@@ -1,5 +1,5 @@
 # EzySolder
-A universal solder feeder
+A universal ergonomic solder feeder. No heavy assembly on the soldering iron itself.
 
 A compact, low-cost DIY solder wire feeder powered by an N20 DC gearmotor.
 
