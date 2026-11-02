@@ -2,11 +2,11 @@
 A universal ergonomic solder feeder. No heavy assembly on the soldering iron itself.
 A compact, low-cost DIY solder wire feeder powered by an N20 DC gearmotor.
 
-Assembly
+## Assembly
 ![assembly](3d_models/assembly.png)
 
 
-Wiring diagram
+## Wiring diagram
 ![wiring diagram](schematic/wiring_diagram.png)
 
 ## Features
